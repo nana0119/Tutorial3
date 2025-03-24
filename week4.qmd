@@ -4,7 +4,6 @@ author: "Nana Cheng"
 date: "2025/03/24"
 format:
   html: default
-  
 execute:
     echo: false
     warning: false
